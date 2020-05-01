@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Chickpeas-Light
+
+Description=This is a redesigned Debian Elarun theme (which was ported from Elarun KDM Elarun theme which is based on work of Roman Shtylman & Nuno Pinheiro) by Reza Fatahilah Shah, icons from :https://github.com/KDE/breeze-icons.
+Type=sddm-theme
+Author=dayanidi
+License=GPL
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Chickpeas-Light
+Website=https://github.com/dayanidi/Chickpeas
+
