@@ -128,7 +128,7 @@ Rectangle {
                             width: 232; height: 24
                             radius: 3
 
-
+                            text: userModel.lastUser
                             textColor: "#404040"
 
                             font.pixelSize: 12
